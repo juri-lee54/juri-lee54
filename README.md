@@ -49,8 +49,6 @@
 ## GitHub Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juri-lee54&show_icons=true&theme=default&hide_border=true" alt="Juri's GitHub Stats" />
-  <br><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=juri-lee54&theme=react&area=true&hide_border=true" alt="Juri's GitHub Activity Graph" />
 </div>
 
