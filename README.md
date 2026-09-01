@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Juri Lee 👋</h1>
-  <h3>AI Agent Developer | Data Engineer </h3>
+  <h3> Data Engineer | AI Agent Developer </h3>
   <br>
 </div>
 
