@@ -9,7 +9,7 @@
 <!-- commit-aquarium:start -->
 <div align="center">
   <a href="https://github.com/juri-lee54/commit-aquarium">
-    <img src="https://raw.githubusercontent.com/juri-lee54/commit-aquarium/main/aquarium/aquarium.svg" alt="Commit Aquarium — 최근 7일 커밋을 일별 등급으로 표시하는 수족관" width="800" />
+    <img src="https://raw.githubusercontent.com/juri-lee54/commit-aquarium/main/aquarium/aquarium.svg?v=80b01c2606ab" alt="Commit Aquarium — 최근 7일 커밋을 일별 등급으로 표시하는 수족관" width="800" />
   </a>
   <p><sub>최근 7일의 커밋을 일별 등급 물고기로 🐠</sub></p>
 </div>
