@@ -22,11 +22,11 @@ jobs:
           import json, os, re, urllib.request
           from pathlib import Path
           owner = os.environ['OWNER_NAME']
-          api = f'https://api.github.com/repos/{owner}/commit-aquarium/contents/aquarium/aquarium.svg'
+          api = f'https://api.github.com/repos/{owner}/commit-aquarium/contents/aquarium/aquarium.gif'
           req = urllib.request.Request(api, headers={'Authorization': 'Bearer ' + os.environ['GH_TOKEN'], 'User-Agent': 'commit-aquarium'})
           with urllib.request.urlopen(req, timeout=30) as response:
               version = json.load(response)['sha'][:12]
-          base = f'https://raw.githubusercontent.com/{owner}/commit-aquarium/main/aquarium/aquarium.svg'
+          base = f'https://raw.githubusercontent.com/{owner}/commit-aquarium/main/aquarium/aquarium.gif'
           path = Path('README.md')
           text = path.read_text()
           if base not in text:
