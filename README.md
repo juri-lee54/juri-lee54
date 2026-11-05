@@ -8,13 +8,9 @@
 
 <!-- commit-aquarium:start -->
 <div align="center">
-  <a href="https://github.com/juri-lee54/juri-lee54/blob/main/assets/aquarium-5ee0cab8a779.gif">
-    <img src="https://raw.githubusercontent.com/juri-lee54/juri-lee54/main/assets/aquarium-5ee0cab8a779.gif" alt="Commit Aquarium — 이번 주 커밋 수와 이번 달 주차별 물고기" width="800" />
+  <a href="https://github.com/juri-lee54/juri-lee54/blob/main/assets/aquarium-3336ed9a98a4.gif">
+    <img src="https://raw.githubusercontent.com/juri-lee54/juri-lee54/main/assets/aquarium-3336ed9a98a4.gif" alt="Commit Aquarium — 이번 주 커밋 수와 이번 달 주차별 물고기" width="800" />
   </a>
-  <!-- aquarium-species:start -->
-  <br />
-  <img src="https://raw.githubusercontent.com/juri-lee54/juri-lee54/main/assets/aquarium-species-b83e032088be.png" alt="Commit Aquarium species tiers" width="560" />
-  <!-- aquarium-species:end -->
 </div>
 <!-- commit-aquarium:end -->
 
