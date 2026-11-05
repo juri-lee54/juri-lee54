@@ -8,8 +8,8 @@
 
 <!-- commit-aquarium:start -->
 <div align="center">
-  <a href="https://github.com/juri-lee54/juri-lee54/blob/main/assets/aquarium-8421eedeb501.gif">
-    <img src="https://raw.githubusercontent.com/juri-lee54/juri-lee54/main/assets/aquarium-8421eedeb501.gif" alt="Commit Aquarium — 이번 주 커밋 수와 이번 달 주차별 물고기" width="800" />
+  <a href="https://github.com/juri-lee54/juri-lee54/blob/main/assets/aquarium-347a68477e4a.gif">
+    <img src="https://raw.githubusercontent.com/juri-lee54/juri-lee54/main/assets/aquarium-347a68477e4a.gif" alt="Commit Aquarium — 이번 주 커밋 수와 이번 달 주차별 물고기" width="800" />
   </a>
 </div>
 <!-- commit-aquarium:end -->
