@@ -9,7 +9,7 @@
 <!-- commit-aquarium:start -->
 <div align="center">
   <a href="https://github.com/juri-lee54/juri-lee54/blob/main/assets/aquarium.gif">
-    <img src="https://raw.githubusercontent.com/juri-lee54/juri-lee54/main/assets/aquarium.gif?v=8504d781fc94" alt="Commit Aquarium — 최근 9일을 3일씩 집계하는 움직이는 수족관" width="800" />
+    <img src="https://raw.githubusercontent.com/juri-lee54/juri-lee54/main/assets/aquarium.gif?v=42f0e59c1345" alt="Commit Aquarium — 최근 9일을 3일씩 집계하는 움직이는 수족관" width="800" />
   </a>
   <p><sub>최근 9일 · 3일씩 모은 커밋으로 자라는 작은 바다 🐠</sub></p>
 </div>
