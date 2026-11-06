@@ -7,9 +7,10 @@
 <br>
 
 <!-- commit-aquarium:start -->
+<a id="commit-aquarium"></a>
 <div align="center">
-  <a href="https://github.com/juri-lee54/juri-lee54/releases/download/aquarium-assets/aquarium-27b3b2be8800ea826a5a7cc1da9ce8006c8f467de2301304b11d476f271fc313.gif">
-    <img src="https://github.com/juri-lee54/juri-lee54/releases/download/aquarium-assets/aquarium-27b3b2be8800ea826a5a7cc1da9ce8006c8f467de2301304b11d476f271fc313.gif" alt="Commit Aquarium — 이번 주 커밋 수와 이번 달 주차별 물고기" width="800" />
+  <a href="#commit-aquarium">
+    <img src="https://github.com/juri-lee54/juri-lee54/releases/download/aquarium-assets/aquarium-4ca45964085158e30e3da1940beb574c1afea44ff743bd0b69db25a7653da13f.gif" alt="Commit Aquarium — 이번 주 커밋 수와 이번 달 주차별 물고기" width="800" />
   </a>
 </div>
 <!-- commit-aquarium:end -->
