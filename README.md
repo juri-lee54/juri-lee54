@@ -10,7 +10,7 @@
 <a id="commit-aquarium"></a>
 <div align="center">
   <a href="#commit-aquarium">
-    <img src="https://github.com/juri-lee54/juri-lee54/releases/download/aquarium-assets/aquarium-bb97da962647032d9918c7c6cd84af9413ea6e8414eb662d733d79899c9e743f.webp" alt="Commit Aquarium — 이번 주 커밋 수와 이번 달 주차별 물고기" width="800" />
+    <img src="https://github.com/juri-lee54/juri-lee54/releases/download/aquarium-assets/aquarium-current.webp" alt="Commit Aquarium — 이번 주 기여 수와 이번 달 주차별 물고기" width="800" />
   </a>
 </div>
 <!-- commit-aquarium:end -->
