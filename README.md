@@ -6,14 +6,6 @@
 
 <br>
 
-<!-- commit-aquarium:start -->
-<a id="commit-aquarium"></a>
-<div align="center">
-  <a href="#commit-aquarium">
-    <img src="https://github.com/juri-lee54/juri-lee54/releases/download/aquarium-assets/aquarium-current.webp" alt="Commit Aquarium — 이번 주 기여 수와 이번 달 주차별 물고기" width="800" />
-  </a>
-</div>
-<!-- commit-aquarium:end -->
 
 ## About Me
 - **AI Agent** 개발과 **Data Engineering**에 깊은 관심을 가지고 있습니다.
@@ -69,3 +61,13 @@
   <a href="mailto:jurilee54@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://jrlee.tistory.com/"><img src="https://img.shields.io/badge/Tistory-EB5600?style=for-the-badge&logo=tistory&logoColor=white"></a>
 </div>
+
+
+<!-- commit-aquarium:start -->
+<a id="commit-aquarium"></a>
+<div align="center">
+  <a href="#commit-aquarium">
+    <img src="https://github.com/juri-lee54/juri-lee54/releases/download/aquarium-assets/aquarium-current.webp" alt="Commit Aquarium — 이번 주 기여 수와 이번 달 주차별 물고기" width="800" />
+  </a>
+</div>
+<!-- commit-aquarium:end -->
